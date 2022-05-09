@@ -9,6 +9,7 @@
 .label {
   width: 100%;
   font-size: 1.5rem;
+  font-weight: 500;
 }
 .input {
   display: block;
@@ -25,6 +26,7 @@
   outline: none;
 }
 .btn {
+  font-size: 18px;
   padding: 0.5rem;
   min-width: 100px;
   min-height: 40px;
